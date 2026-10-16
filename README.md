@@ -49,4 +49,15 @@ Meu espaço para apresentar minha trajetória de aprendizado e meus projetos de 
 
 Feito com carinho e dedicação por Pamela Vitória 🌷
 
+</div> 
+
+## 📊 Minhas estatísticas
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pamy-Dias&show_icons=true&theme=default&title_color=C77D98&icon_color=E8A4B8&text_color=6D5966&bg_color=FFF8FB&hide_border=true&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamy-Dias&layout=compact&title_color=C77D98&text_color=6D5966&bg_color=FFF8FB&hide_border=true&locale=pt-br)
+
 </div>
+
