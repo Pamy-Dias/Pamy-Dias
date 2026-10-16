@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Pamy-Dias/Pamy-Dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🌸 Pamela Vitória
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvedora Front-end em formação
+
+Aprendendo, criando e transformando ideias em projetos web.
+
+[![Meu Portfólio](https://img.shields.io/badge/Meu_Portf%C3%B3lio-E8A4B8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pamy-dias.github.io/Meu-Portfolio-Desenvolvimento-Front-end/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-D8B4C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pamy-Dias)
+
+</div>
+
+---
+
+## 🎀 Sobre mim
+
+Olá! Sou Pamela Vitória e estou desenvolvendo minhas habilidades em programação e desenvolvimento web.
+
+- 🌷 Aprendendo desenvolvimento Front-end.
+- 💻 Praticando HTML, CSS e JavaScript.
+- 📚 Construindo meus conhecimentos passo a passo.
+- ✨ Buscando transformar ideias em experiências digitais.
+
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E8A4B8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-CDB4DB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F6D6A8?style=for-the-badge&logo=javascript&logoColor=333333)
+
+## 💗 Meu projeto
+
+### Portfólio pessoal
+
+Meu espaço para apresentar minha trajetória de aprendizado e meus projetos de desenvolvimento web.
+
+**[Acesse meu portfólio](https://pamy-dias.github.io/Meu-Portfolio-Desenvolvimento-Front-end/)**
+
+## 📬 Contato
+
+- GitHub: [Pamy-Dias](https://github.com/Pamy-Dias)
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/pamela-vitoria-709592443/)
+
+---
+
+<div align="center">
+
+Feito com carinho e dedicação por Pamela Vitória 🌷
+
+</div>
